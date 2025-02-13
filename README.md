@@ -75,4 +75,4 @@ Navigate to the frontend directory and start a local server:
 
 ---
 
-Made with ❤️ by Adi | [GitHub Repository](https://github.com/adityadeshpande03/Atmos-AI)
+Made with ❤️ by Adi | [GitHub Repository](https://github.com/adityadeshpande03/VideoMate-AI)
