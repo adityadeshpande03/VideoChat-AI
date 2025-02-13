@@ -45,6 +45,7 @@ Navigate to the frontend directory and start a local server:
   cd frontend
   click on index.html to run the file
 ```
+### NOTE - PLEASE ADD GEMINI API KEY IN .env FILE
 
 ## 🐳 Using Docker
 
@@ -57,7 +58,6 @@ Navigate to the frontend directory and start a local server:
 ```bash
   docker run -p 8000:8000 adityadeshpande03/video-mate-ai:latest
 ```
-### NOTE - PLEASE ADD GEMINI API KEY IN .env FILE
 
 ## 🛠️ Usage
 #### 1️⃣ Enter the YouTube video URL in the input field.
