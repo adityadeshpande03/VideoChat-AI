@@ -65,9 +65,9 @@ Navigate to the frontend directory and start a local server:
 #### 3️⃣ Get relevant timestamps, clickable YouTube links, and a concise summary!
 
 ## 🎯 Future Enhancements
-✅ Support for multiple languages
-✅ Real-time speech-to-text transcription
-✅ Improved UI/UX with interactive charts
+#### ✅ Support for multiple languages
+#### ✅ Real-time speech-to-text transcription
+#### ✅ Improved UI/UX with interactive charts
 
 ---
 
