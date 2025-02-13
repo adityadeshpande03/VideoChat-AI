@@ -56,7 +56,7 @@ Navigate to the frontend directory and start a local server:
 
 ### Run the Container
 ```bash
-  docker run -p 8000:8000 adityadeshpande03/video-mate-ai:latest
+  docker run -p 8000:8000 -p 6333:6333 -v qdrant_storage:/qdrant_storage adityadeshpande03/video-mate-ai:latest
 ```
 
 ## 🛠️ Usage
