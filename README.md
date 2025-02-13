@@ -36,7 +36,7 @@
 ### 3️⃣ Run the Backend
 ```bash
   cd src
-  python run_app.py
+  python run_server.py
 ```
 
 ### 4️⃣ Run the Frontend (if applicable)
