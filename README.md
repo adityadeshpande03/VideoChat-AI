@@ -5,8 +5,7 @@
 # Impementation
 
 
-https://github.com/user-attachments/assets/b64cc3b1-d14a-41cf-8313-cc5a7bbe28a9
-
+Uploading VideoChat AI - Made with Clipchamp (1).mp4…
 
 
 ## ✨ Features
