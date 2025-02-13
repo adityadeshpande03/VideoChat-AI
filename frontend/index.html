@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VideoChat AI Assistant</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
+</head>
+<body>
+    <div class="app-wrapper">
+        <!-- Video Preview Section -->
+        <section class="video-section">
+            <div class="video-container">
+                <div id="thumbnail-preview">
+                    <div class="placeholder-content">
+                        <i class="fab fa-youtube"></i>
+                        <p>Enter a YouTube URL to begin</p>
+                    </div>
+                </div>
+                <div class="url-input">
+                    <input type="text" 
+                           id="youtube-url" 
+                           placeholder="Paste YouTube URL here">
+                    <button id="url-submit">
+                        <i class="fas fa-arrow-right"></i>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Chat Section -->
+        <section class="chat-section">
+            <div class="chat-header">
+                <h1>VideoChat AI</h1>
+                <div class="status-indicator">
+                    <span class="dot"></span>
+                    <span class="status-text">Ready</span>
+                </div>
+            </div>
+
+            <div class="chat-messages" id="chat-log">
+                <div class="welcome-screen">
+                    <div class="welcome-icon">🎥</div>
+                    <h2>Welcome to VideoChat AI</h2>
+                    <p>I can help you understand and analyze YouTube videos. Start by:</p>
+                    <ol>
+                        <li>Paste a YouTube URL in the left panel</li>
+                        <li>Ask any question about the video content</li>
+                    </ol>
+                    <div class="example-chips">
+                        <button class="chip" data-query="What are the main topics?">Main topics</button>
+                        <button class="chip" data-query="Give me a summary">Summary</button>
+                        <button class="chip" data-query="Key takeaways?">Key takeaways</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-input">
+                <form id="chat-form">
+                    <div class="input-wrapper">
+                        <input type="text" 
+                               id="query" 
+                               placeholder="Ask about the video..." 
+                               disabled>
+                        <button type="submit" id="submit-btn" disabled>
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
