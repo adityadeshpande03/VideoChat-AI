@@ -45,7 +45,7 @@ Navigate to the frontend directory and start a local server:
   cd frontend
   click on index.html to run the file
 ```
-### NOTE - PLEASE ADD GEMINI API KEY IN .env FILE
+### NOTE - PLEASE ADD GOOGLE API KEY IN .env FILE (API KEY IS AVAIALABLE FOR FREE ON GOOGLE AI STUDIO)
 
 ## 🐳 Using Docker
 
