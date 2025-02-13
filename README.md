@@ -22,7 +22,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-  git clone https://github.com/yourusername/VideoMate-AI.git
+  git clone https://github.com/adityadeshpande03/VideoMate-AI
   cd VideoMate-AI
 ```
 
@@ -35,26 +35,27 @@
 
 ### 3️⃣ Run the Backend
 ```bash
-  uvicorn app:main --reload
+  cd src
+  python run_app.py
 ```
 
 ### 4️⃣ Run the Frontend (if applicable)
 Navigate to the frontend directory and start a local server:
 ```bash
   cd frontend
-  python -m http.server 8000
+  click on index.html to run the file
 ```
 
 ## 🐳 Using Docker
 
 ### Pull the Docker Image
 ```bash
-  docker pull yourdockerhubusername/videomate-ai:latest
+  docker pull adityadeshpande03/video-mate-ai:latest
 ```
 
 ### Run the Container
 ```bash
-  docker run -p 8000:8000 yourdockerhubusername/videomate-ai
+  docker run -p 8000:8000 adityadeshpande03/video-mate-ai:latest
 ```
 
 ## 🛠️ Usage
@@ -67,12 +68,10 @@ Navigate to the frontend directory and start a local server:
 ✅ Real-time speech-to-text transcription
 ✅ Improved UI/UX with interactive charts
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙌 Contributing
-Feel free to contribute by submitting pull requests or reporting issues! 🎉
-
 ---
 
 💡 **Transform the way you explore YouTube videos with VideoMate AI!** 🎥🚀
+
+---
+
+Made with ❤️ by Adi | [GitHub Repository](https://github.com/adityadeshpande03/Atmos-AI)
