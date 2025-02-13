@@ -59,9 +59,9 @@ Navigate to the frontend directory and start a local server:
 ```
 
 ## 🛠️ Usage
-1️⃣ Enter the YouTube video URL in the input field.
-2️⃣ Submit a query related to the video content.
-3️⃣ Get relevant timestamps, clickable YouTube links, and a concise summary!
+### 1️⃣ Enter the YouTube video URL in the input field.
+### 2️⃣ Submit a query related to the video content.
+### 3️⃣ Get relevant timestamps, clickable YouTube links, and a concise summary!
 
 ## 🎯 Future Enhancements
 ✅ Support for multiple languages
