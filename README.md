@@ -1,6 +1,6 @@
-# 🎥 VideoMate AI
+# 🎥 VideoChat AI
 
-🚀 **VideoMate AI** is an intelligent tool that extracts transcriptions from YouTube videos and returns relevant timestamps based on user queries. It also provides a clickable YouTube link and a short summary to highlight key points.
+🚀 **VideoChat AI** is an intelligent tool that extracts transcriptions from YouTube videos and returns relevant timestamps based on user queries. It also provides a clickable YouTube link and a short summary to highlight key points.
 
 ## ✨ Features
 - 📌 **YouTube Video Transcription**: Extracts transcriptions along with timestamps.
@@ -22,8 +22,8 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-  git clone https://github.com/adityadeshpande03/VideoMate-AI
-  cd VideoMate-AI
+  git clone https://github.com/adityadeshpande03/VideoChat-AI
+  cd VideoChat-AI
 ```
 
 ### 2️⃣ Create a Virtual Environment & Install Dependencies
@@ -75,4 +75,4 @@ Navigate to the frontend directory and start a local server:
 
 ---
 
-Made with ❤️ by Adi | [GitHub Repository](https://github.com/adityadeshpande03/VideoMate-AI)
+Made with ❤️ by Adi | [GitHub Repository](https://github.com/adityadeshpande03/VideoChat-AI)
