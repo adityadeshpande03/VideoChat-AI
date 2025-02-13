@@ -2,6 +2,13 @@
 
 🚀 **VideoChat AI** is an intelligent tool that extracts transcriptions from YouTube videos and returns relevant timestamps based on user queries. It also provides a clickable YouTube link and a short summary to highlight key points.
 
+# Impementation
+
+
+https://github.com/user-attachments/assets/b64cc3b1-d14a-41cf-8313-cc5a7bbe28a9
+
+
+
 ## ✨ Features
 - 📌 **YouTube Video Transcription**: Extracts transcriptions along with timestamps.
 - 🔍 **Intelligent Query Search**: Finds relevant sections based on user queries.
